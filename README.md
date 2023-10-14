@@ -1,5 +1,7 @@
-# Nhom3_HeThongBanDienThoaiOnline_T4_Ca3
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+# Công Nghệ Phần Mềm - Nhóm 3 - Thứ 4 - Ca 3
+* Giảng viên : Nguyễn Tấn Khoa *
+* Tên đồ án : Hệ Thống Bán Điện Thoại Online
+<h2 align="center">🛠 Công nghệ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -12,6 +14,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio 2022" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
