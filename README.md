@@ -2,11 +2,14 @@
 * Giảng viên : Nguyễn Tấn Khoa 
 * Tên đồ án : Hệ Thống Bán Điện Thoại Online
 
-* Thành viên trong nhóm : 
-- DEV : Trần Minh Kiệt - 21DH114436
-- DEV : Lưu Quốc Minh - 21DH113878
-- Product Owner : Nguyễn Hoàng Nhựt Trường - 21dh114556
-- Scrum Master : Trần Nguyễn Yến Phương - 21DH111491
+<h3>Thành viên trong nhóm : <h3>
+  
+* DEV : Trần Minh Kiệt - 21DH114436
+* DEV : Lưu Quốc Minh - 21DH113878
+* Product Owner : Nguyễn Hoàng Nhựt Trường - 21dh114556
+* Scrum Master : Trần Nguyễn Yến Phương - 21DH111491
+
+
 <h2 align="center">🛠 Công nghệ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
