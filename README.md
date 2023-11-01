@@ -27,4 +27,6 @@
 &nbsp;
 <br>
 
+<h3 align="center" text:"bold">Những gì đã làm và Hướng phát triển</h3>
+![](https://i.imgur.com/QohNcL1.jpg)
 
