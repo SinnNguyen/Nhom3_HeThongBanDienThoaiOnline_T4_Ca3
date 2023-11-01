@@ -40,7 +40,8 @@ Ngoài ra, trang web cũng cần phải đảm bảo cho công ty quản lí cá
 
 
 <h3 align="center" text:"bold">Những gì đã làm và Hướng phát triển</h3>
-Xem Trang chủ,Xem danh sách sản phẩm,Xem thông tin sản phẩm,Xem danh sách các mục, Đăng ký, Đăng nhập, Đăng xuất, Xem Thông tin cá nhân ( cập nhật )
+* Xem Trang chủ
+* Xem danh sách sản phẩm,Xem thông tin sản phẩm,Xem danh sách các mục, Đăng ký, Đăng nhập, Đăng xuất, Xem Thông tin cá nhân ( cập nhật )
 Thêm sản phẩm vào giỏ hàng, Đánh giá sản phẩm, Xem giỏ hàng ( cập nhật, xóa), Thông tin liên hệ, Đặt mua sản phẩm, Yêu thích sản phẩm, Quản lí người dùng, Quản lí sản phẩm, Quản lí Danh mục, Phân quyền, Tìm kiếm sản phẩm, Xem các ưu đãi, Kiểm tra tình trạng đơn hàng, Tra cứu đơn hàng, Chọn phương thức thanh toán, Xem danh sách đơn hàng mới, Quản lí phương thức thanh toán, Quản lí đơn hàng, Cập nhật thông tin các sự kiện mới.
 <p>Và hướng phát triển sắp tới nhóm sẽ cập nhật các công nghệ mới nhất, xây dựng giao diện thẩm mĩ bắt mắt, các chức năng được cập nhật mới và dễ sử dụng.</p>
 
