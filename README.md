@@ -15,7 +15,7 @@ Ngoài ra, trang web cũng cần phải đảm bảo cho công ty quản lí cá
   
 * DEV : Trần Minh Kiệt - 21DH114436
 * DEV : Lưu Quốc Minh - 21DH113878
-* Product Owner : Nguyễn Hoàng Nhựt Trường - 21dh114556
+* Product Owner : Nguyễn Hoàng Nhựt Trường - 21DH114556
 * Scrum Master : Trần Nguyễn Yến Phương - 21DH111491
 
 ***
@@ -42,7 +42,7 @@ Ngoài ra, trang web cũng cần phải đảm bảo cho công ty quản lí cá
 <h3 align="center" text:"bold">Những gì đã làm và Hướng phát triển</h3>
 Xem Trang chủ,Xem danh sách sản phẩm,Xem thông tin sản phẩm,Xem danh sách các mục, Đăng ký, Đăng nhập, Đăng xuất, Xem Thông tin cá nhân ( cập nhật )
 Thêm sản phẩm vào giỏ hàng, Đánh giá sản phẩm, Xem giỏ hàng ( cập nhật, xóa), Thông tin liên hệ, Đặt mua sản phẩm, Yêu thích sản phẩm, Quản lí người dùng, Quản lí sản phẩm, Quản lí Danh mục, Phân quyền, Tìm kiếm sản phẩm, Xem các ưu đãi, Kiểm tra tình trạng đơn hàng, Tra cứu đơn hàng, Chọn phương thức thanh toán, Xem danh sách đơn hàng mới, Quản lí phương thức thanh toán, Quản lí đơn hàng, Cập nhật thông tin các sự kiện mới.
-Và hướng phát triển sắp tới nhóm sẽ cập nhật các công nghệ mới nhất, xây dựng giao diện thẩm mĩ bắt mắt, các chức năng được cập nhật mới và dễ sử dụng.
+<p>Và hướng phát triển sắp tới nhóm sẽ cập nhật các công nghệ mới nhất, xây dựng giao diện thẩm mĩ bắt mắt, các chức năng được cập nhật mới và dễ sử dụng.</p>
 
 
 <h4>Dưới đây là trang chủ của chúng tôi :</h4>
