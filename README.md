@@ -28,5 +28,6 @@
 <br>
 
 <h3 align="center" text:"bold">Những gì đã làm và Hướng phát triển</h3>
-![](https://i.imgur.com/QohNcL1.jpg)
+<h4>Dưới đây là trang chủ của chúng tôi :</h4>
+<img src="https://i.imgur.com/QohNcL1.jpg" alt="HomePageS" title="HomePage" height:500 />
 
