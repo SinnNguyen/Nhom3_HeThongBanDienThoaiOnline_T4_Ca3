@@ -1,6 +1,6 @@
 # Công Nghệ Phần Mềm - Nhóm 3 - Thứ 4 - Ca 3
-* Giảng viên : Nguyễn Tấn Khoa 
-* Tên đồ án : Hệ Thống Bán Điện Thoại Online
+## Giảng viên : Nguyễn Tấn Khoa 
+## Tên đồ án : Hệ Thống Bán Điện Thoại Online
 
 <h3>Thành viên trong nhóm : <h3>
   
