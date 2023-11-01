@@ -2,6 +2,8 @@
 ## Giảng viên : Nguyễn Tấn Khoa 
 ## Tên đồ án : Hệ Thống Bán Điện Thoại Online
 
+***
+
 <h3>Thành viên trong nhóm : <h3>
   
 * DEV : Trần Minh Kiệt - 21DH114436
@@ -9,7 +11,7 @@
 * Product Owner : Nguyễn Hoàng Nhựt Trường - 21dh114556
 * Scrum Master : Trần Nguyễn Yến Phương - 21DH111491
 
-
+***
 <h2 align="center">🛠 Công nghệ 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -26,6 +28,9 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio 2022" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
+
+***
+
 
 <h3 align="center" text:"bold">Những gì đã làm và Hướng phát triển</h3>
 <h4>Dưới đây là trang chủ của chúng tôi :</h4>
